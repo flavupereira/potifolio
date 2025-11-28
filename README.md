@@ -1,4 +1,4 @@
-# 🚀 Portfólio - Joana Santos
+# 🚀 Portfólio
 
 <div align="center">
 
@@ -91,33 +91,4 @@ text
 </div>
 
 ---
-
-<div align="center">
-
-### *"Transformando ideias em experiências digitais excepcionais"* ✨
-
-**Desenvolvido com ❤️ e foco na excelência visual**
-
-</div>
-Este arquivo README.md está completamente formatado com:
-
-✅ Sintaxe Markdown correta
-
-✅ Emojis e badges visuais
-
-✅ Tabelas organizadas
-
-✅ Divisões com <div align="center">
-
-✅ Cabeçalhos hierárquicos
-
-✅ Listas formatadas
-
-✅ Estrutura de código para árvore de arquivos
-
-✅ Links sociais com badges
-
-✅ Layout responsivo no próprio README
-
-Basta salvar como README.md na raiz do seu projeto!
 
