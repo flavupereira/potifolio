@@ -60,35 +60,6 @@ Bem-vindo ao meu portfólio profissional! Desenvolvi uma experiência digital el
 
 </div>
 
-## 🎨 Estrutura Visual
-📁 Portfólio Joana Santos
-│
-├── 🎪 Header
-│ ├── 🧭 Navegação elegante
-│ └── 🎯 Links com hover effects
-│
-├── ✨ Main Content
-│ ├── 📝 Apresentação pessoal
-│ ├── 🌟 Destaque de habilidades
-│ └── 🔗 Links sociais com ícones
-│
-├── 🖼️ Hero Image
-│ └── 🎨 Foto profissional em destaque
-│
-└── 👣 Footer
-└── ©️ Créditos discretos
-
-text
-
-## 🔗 Conecte-se Comigo
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com)
-[![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch)](https://twitch.com)
-
-</div>
 
 ---
 
